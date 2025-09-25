@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Olá, sou Victor Mançaneira, sou desenvolvedor Back-End em formação, com graduação em Ciência da Computação pela Uniderp e atualmente cursando ós-graduação em Desenvolvimento Back end na Uniderp. Essa experiência está me permitindo consolidar habilidades e aprofundar meus conhecimentos para construir uma carreira sólida na área de desenvolvimento.<br><br>Habilidades Técnicas:<br><br>- Back-End: Java | Spring Boot | Python<br><br>- Banco de Dados: MySQL<br> <br>- Sistemas operacionais: Windows e Linux<br><br>- Metodologia ágil<br><br>- Design: Figma, Canva e Photoshop<br><br>- Git e GitHub<br><br>Sempre em busca de aprendizado e evolução, estou aberto a novas oportunidades de desenvolvimento e projetos que possam me desafiar e expandir meu conhecimento na área de tecnologia.</p>
+<p align="left">Olá, sou Victor Mançaneira, sou desenvolvedor Back-End em formação, com graduação em Ciência da Computação pela Uniderp e atualmente cursando pós-graduação em Desenvolvimento Back end na Uniderp. Essa experiência está me permitindo consolidar habilidades e aprofundar meus conhecimentos para construir uma carreira sólida na área de desenvolvimento.<br><br>Habilidades Técnicas:<br><br>- Back-End: Java | Spring Boot | Python<br><br>- Banco de Dados: MySQL<br> <br>- Sistemas operacionais: Windows e Linux<br><br>- Metodologia ágil<br><br>- Design: Figma, Canva e Photoshop<br><br>- Git e GitHub<br><br>Sempre em busca de aprendizado e evolução, estou aberto a novas oportunidades de desenvolvimento e projetos que possam me desafiar e expandir meu conhecimento na área de tecnologia.</p>
 
 ###
 
